@@ -19,5 +19,6 @@ NOTE: If you don't get in at least one pull request daily, then *_ya ain't serio
 
 ## Videos
 Intro to CSS - https://youtu.be/nTk0V7ghzXM <br>
+GIT - https://youtu.be/KZ7GK0fdTQU <br>
 
 ## Demos
