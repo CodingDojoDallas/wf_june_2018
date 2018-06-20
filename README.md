@@ -18,6 +18,7 @@ https://www.dropbox.com/s/h3texmoqm801j8w/github_workflow_v4.pdf?dl=0
 NOTE: If you don't get in at least one pull request daily, then *_ya ain't serious_*.
 
 ## Videos
+Intro to HTML - https://youtu.be/7rcK7oYGBtg <br>
 Intro to CSS - https://youtu.be/nTk0V7ghzXM <br>
 GIT - https://youtu.be/KZ7GK0fdTQU <br>
 
