@@ -24,4 +24,6 @@ GIT - https://youtu.be/KZ7GK0fdTQU <br>
 Responsive Design - https://youtu.be/qTpOIpquSv0 <br>
 Weekend Web "Fun" - https://youtu.be/pIjnjMgGbWc <br>
 
+Basic JS - https://youtu.be/ZQga6QNJcnw <br>
+
 ## Demos
