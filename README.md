@@ -25,5 +25,6 @@ Responsive Design - https://youtu.be/qTpOIpquSv0 <br>
 Weekend Web "Fun" - https://youtu.be/pIjnjMgGbWc <br>
 
 Basic JS - https://youtu.be/ZQga6QNJcnw <br>
+JQuery - https://youtu.be/2VoZjB9HdxE <br>
 
 ## Demos
